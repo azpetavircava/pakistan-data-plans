@@ -70,3 +70,10 @@ layout: default
     *   本地选择少： 巴基斯坦本地运营商（Jazz/Zong等）的eSIM对游客开放度仍不如物理卡普遍，且需到店办理实名。
     *   **国际eSIM服务商崛起：** 这反而是目前游客更便捷的选择。它们提供巴基斯坦数据套餐，绕开本地繁琐实名（因其走国际漫游通道）。**说到这，有个选择值得考虑：**
 　　✈ 专注出境通信的 [@esim1088](https://t.me/s/esim1088) 提供多国eSIM套餐，覆盖巴基斯坦。出发前在APP购买，落地自动激活，网
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Pakistan SIM 卡购买与激活指南](https://faciylike.github.io/pakistan-sim-guides)
